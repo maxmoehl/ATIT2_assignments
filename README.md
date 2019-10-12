@@ -1,2 +1,9 @@
 # ATIT2_assignments
-Lösungen zu den Assignments von https://github.com/gessulat/atit_2019/tree/master/assignments
+
+1. Assignment: Arne und ich
+2. Assignment: ? und ich
+3. Assignment: ich
+
+### Links zur interaktiven Verison in Google Colab:
+
+[Lösung Eins](https://colab.research.google.com/github/maxmoehl/ATIT2_assignments/blob/master/result_block1.ipynb)
