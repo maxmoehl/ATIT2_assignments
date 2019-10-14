@@ -6,4 +6,4 @@
 
 ### Links zur interaktiven Verison in Google Colab:
 
-[Lösung Eins](https://colab.research.google.com/github/maxmoehl/ATIT2_assignments/blob/master/result_block1.ipynb)
+[Lösung Eins](https://colab.research.google.com/github/maxmoehl/ATIT2_assignments/blob/master/Assignment_1/solution.ipynb)
