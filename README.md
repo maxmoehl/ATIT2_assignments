@@ -1,7 +1,7 @@
 # ATIT2_assignments
 
 1. Assignment: Arne und ich
-2. Assignment: ? und ich
+2. Assignment: Felix, Fabian und ich
 3. Assignment: ich
 
 ### Links zur interaktiven Verison in Google Colab:
