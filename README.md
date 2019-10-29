@@ -1,6 +1,6 @@
 # ATIT2_assignments
 
-1. Assignment: Arne und ich
+1. Assignment: Arne und ich (24,5/30 Punkten)
 2. Assignment: Felix, Fabian und ich
 3. Assignment: ich
 
