@@ -10,3 +10,4 @@ Max: 1 Bonuspunkt
 
 [Lösung Eins](https://colab.research.google.com/github/maxmoehl/ATIT2_assignments/blob/master/Assignment_1/solution.ipynb)  
 [Lösung Zwei](https://colab.research.google.com/github/maxmoehl/ATIT2_assignments/blob/master/Assignment_2/solution.ipynb)
+[Lösung Drei](https://colab.research.google.com/github/maxmoehl/ATIT2_assignments/blob/master/Assignment_3/solution.ipynb)
