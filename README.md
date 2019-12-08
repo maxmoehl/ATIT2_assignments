@@ -4,7 +4,7 @@
 2. Assignment: Felix, Fabian und ich (39/40 Punkten)
 3. Assignment: ich
 
-Max: 1 Bonuspunkt
++1 Bonuspunkt (XOR-Diagramm in der Vorlesung)
 
 ### Links zur interaktiven Version in Google Colab:
 
