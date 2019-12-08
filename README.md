@@ -13,3 +13,6 @@ Max: 1 Bonuspunkt
 _csv datei muss vorher in CoLab hochgeladen werden_  
 [Lösung Drei](https://colab.research.google.com/github/maxmoehl/ATIT2_assignments/blob/master/Assignment_3/solution.ipynb)
 _models und samples müssen vorher in CoLab hochgeladen werden_  
+
+### Fragen für Helpdesk
+* Slides des letzten Blocks?
