@@ -16,3 +16,4 @@ _models und samples müssen vorher in CoLab hochgeladen werden und keras muss ge
 
 ### Fragen für Helpdesk
 * Slides des letzten Blocks?
+* Sollten wir eher auf einen genauen 50/50 Split abzielen oder lieber einen ungenauen Split lassen bei dem wir uns sicherer sind?
