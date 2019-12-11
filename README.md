@@ -15,5 +15,5 @@ _csv datei muss vorher in CoLab hochgeladen werden_
 _models und samples müssen vorher in CoLab hochgeladen werden und keras muss geupdated werden_  
 
 ### Fragen für Helpdesk
-* Slides des letzten Blocks?
 * Sollten wir eher auf einen genauen 50/50 Split abzielen oder lieber einen ungenauen Split lassen bei dem wir uns sicherer sind?
+* Ist es gewollt das es nur 50 Bilder aber doppelt sind?
