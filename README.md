@@ -4,7 +4,7 @@
 2. Assignment: Felix, Fabian und ich (39/40 Punkten)
 3. Assignment: ich
 
-+2 Bonuspunkte (XOR-Diagramm in der Vorlesung und Fehler in Assignment 3)
++3 Bonuspunkte (XOR-Diagramm in der Vorlesung und Fehler in Assignment 3)
 
 ### Links zur interaktiven Version in Google Colab:
 
