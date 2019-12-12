@@ -4,7 +4,7 @@
 2. Assignment: Felix, Fabian und ich (39/40 Punkten)
 3. Assignment: ich
 
-+1 Bonuspunkt (XOR-Diagramm in der Vorlesung)
++3 Bonuspunkte (XOR-Diagramm in der Vorlesung und Fehler in Assignment 3)
 
 ### Links zur interaktiven Version in Google Colab:
 
@@ -15,5 +15,5 @@ _csv datei muss vorher in CoLab hochgeladen werden_
 _models und samples müssen vorher in CoLab hochgeladen werden und keras muss geupdated werden_  
 
 ### Fragen für Helpdesk
-* Slides des letzten Blocks?
 * Sollten wir eher auf einen genauen 50/50 Split abzielen oder lieber einen ungenauen Split lassen bei dem wir uns sicherer sind?
+* Ist es gewollt das es nur 50 Bilder aber doppelt sind?
